@@ -1,6 +1,6 @@
 # datasikkerhed
 
-SafeSocial - Interaktiv Weboplevelse om Datasikkerhed
+SafeSocial - interaktiv weboplevelse om datasikkerhed
 
 SafeSocial er en interaktiv weboplevelse, der formidler viden om datasikkerhed gennem forgrenede scenarier (branching scenarios). Projektet er udviklet som en del af Multimediedesignuddannelsens 2. semester, hvor målet er at skabe et engagerende og læringsrigt digitalt produkt.
 
